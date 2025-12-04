@@ -3,3 +3,5 @@ This is test git repository
 code changes in newtask branch
 
 changes made in new task 1 branch
+
+amol badge
